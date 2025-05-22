@@ -117,7 +117,14 @@ document.addEventListener("DOMContentLoaded", () => {
           <div class="placeholder-content">
             <i class="fas fa-home fa-3x"></i>
             <h3>Home Dashboard</h3>
-            <p>This is your personal dashboard. View your account information and settings here.</p>
+            <p>Coinbase Support is the official customer service team for Coinbase, one of the world’s leading cryptocurrency exchanges. Their main job is to assist users with any issues related to their Coinbase accounts and transactions. This includes:
+ • Helping with account access and verification issues
+ • Guiding users through buying, selling, and transferring crypto
+ • Investigating suspicious activity or potential security concerns
+ • Assisting with payment and withdrawal problems
+ • Providing information about policies, limits, and platform features
+
+Coinbase Support typically offers help through their Help Center, email, and in some cases, in-app chat. They will never ask for your password or private keys, and users should be cautious of scams pretending to be Coinbase representatives.</p>
           </div>
         `
         break
